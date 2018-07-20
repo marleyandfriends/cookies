@@ -7,5 +7,5 @@ diff
 ## Dark Chocolate
 
 ## White Chocolate
-## Peanut Buttah
+## Almond Butter
 ## Macadamia
