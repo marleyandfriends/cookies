@@ -2,7 +2,7 @@
 
 ## Peanut Buttah
 
-## Chocolate
+## Chocolatey
 
 ## Dark Chocolate
 
