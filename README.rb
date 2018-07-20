@@ -1,6 +1,6 @@
 # Cookies
 
-## Peanut Butter
+## Peanut Buttah
 
 ## Chocolate
 
