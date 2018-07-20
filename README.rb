@@ -2,7 +2,7 @@
 
 diff
 
-## Chocolatey
+## Chocolate
 
 ## Dark Chocolate
 
