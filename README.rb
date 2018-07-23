@@ -8,4 +8,4 @@ diff
 
 ## White Chocolate
 ## Almond Butter
-## Macadamia
+## Macadamia Nuts
