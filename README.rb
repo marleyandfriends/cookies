@@ -6,6 +6,6 @@ diffa
 
 ## Dark Chocolates
 
-## White Chocolate
+## White Chocolates
 ## Almond Butter
 ## Macadamia Nutty 
