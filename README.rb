@@ -4,7 +4,7 @@ diffa
 
 ## Chocolate
 
-## Dark Chocolate
+## Dark Chocolates
 
 ## White Chocolate
 ## Almond Butter
