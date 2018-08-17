@@ -2,7 +2,7 @@
 
 diffa
 
-## Chocolate Goodness
+## Chocolatey
 
 ## Dark Chocolates
 
