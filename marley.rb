@@ -2,7 +2,7 @@ class Marley
   def eat
   end
   
-  def walk
+  def run
   end
   
   def poop
