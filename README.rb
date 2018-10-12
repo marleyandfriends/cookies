@@ -1,12 +1,17 @@
 GIVE ME FOOD
 
-bring it back!
-
-## Chocolatey
+## Chocolate
+- m&m
 
 ## Milk Chocolates
+
 ## Peanut Butter!
+
 ## White Chocolate
+
 ## Dark Chocolate
+
 ## Almond Butter
-## Macadamia Nutty 
+
+## Macadamia Nuts
+
