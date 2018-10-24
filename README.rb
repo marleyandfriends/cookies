@@ -10,6 +10,7 @@ bring it back!
 ## Dark Chocolate
 ## Almond Butter
 ## Macadamia Nutty 
-## Fruits
+## Fruity
+## Strawberyy
 
 ## Chips
