@@ -11,6 +11,6 @@ bring it back!
 ## Almond Butter
 ## Macadamia Nutty 
 ## Fruity
-## Strawberyy
+## Strawberry
 
 ## Chips
