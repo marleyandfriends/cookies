@@ -1,9 +1,5 @@
 GIVE ME FOOD
 
-bring it back!
-
-## Chocolatey
-
 ## Milk Chocolates
 ## Peanut Butter!
 ## White Chocolate
@@ -14,3 +10,5 @@ bring it back!
 ## Strawberry
 ## Guac
 ## Chips
+## Lemons
+## Apples
