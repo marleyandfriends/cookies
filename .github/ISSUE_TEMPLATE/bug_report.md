@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-labels: "bug, enhancement, \U0001F46DCollaboration, ✨Design ready, jlka"
+labels: "bug, enhancement, jlka, ✨Design ready, \U0001F46DCollaboration"
 
 ---
 
