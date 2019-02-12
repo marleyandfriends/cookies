@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: no-itsbackpack, marleythepuli
+assignees: marleythepuli
 
 ---
 
